@@ -19,6 +19,11 @@
 ### Konfirmasi Order
 ![alt_text](https://github.com/rendyirawann/PDF_portfolio/blob/master/centseico/CENTSEICO-Coffee%20Konfirmasi%20Order.png?raw=true)
 
+
+###
+###
+# CV
+![alt_text](https://github.com/rendyirawann/PDF_portfolio/blob/master/CV_Rendy%20Irawan.pdf?raw=true)
  
 
  
