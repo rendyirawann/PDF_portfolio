@@ -22,8 +22,7 @@
 
 ###
 ###
-# CV
-![alt_text](https://github.com/rendyirawann/PDF_portfolio/blob/master/CV_Rendy%20Irawan.pdf?raw=true)
+
  
 
  
